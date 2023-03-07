@@ -1,0 +1,21 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}"
+    ],
+    "alObjectDesigner.VsCodeBrowserPreview": false,
+    "alObjectDesigner.useInternalNavigation": false,
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:\\Windows\\Microsoft.NET\\assembly",
+        "C:\\Windows\\Microsoft.NET\\Framework",
+        "C:\\Windows\\assembly"
+    ],
+    "CRS.DisableDefaultAlSnippets": true,
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.OnSaveAlFileAction": "DoNothing",
+    "editor.tabSize": 2,
+    "al-test-runner.sendDebugTelemetry": false
+}
