@@ -1,0 +1,34 @@
+{
+  "id": "30e41cc7-e9e5-4e6f-995b-324a66a4b049",
+  "name": "Lacor Hospital - Main",
+  "publisher": "Lacor Hospital",
+  "version": "2100.0.0.0",
+  "brief": "Lacor Hospital",
+  "description": "This app contains all functionalities developed for Lacor Hospital and it is designed for BC 2022 Wave 2 (BC21)",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 54999
+    }
+  ],
+  "resourceExposurePolicy":
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
